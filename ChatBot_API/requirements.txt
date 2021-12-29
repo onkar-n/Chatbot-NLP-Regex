@@ -1,0 +1,4 @@
+flask
+flask-restful
+rivescript
+flask-cors
