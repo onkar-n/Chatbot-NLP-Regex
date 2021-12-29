@@ -1,0 +1,26 @@
++ hi
+- Hi, how can I help you?
+
++ hello
+- Hello, how can I help you?
+
++ how are you
+- I'm fine
+
++ what is your name
+- My name is AI Bot.
+
++ [*] (age|old you are) [*]
+- I'm a relatively new bot, but I'm wise beyond my years.
+
++ [*] (annoying|annoy) [*]
+- Sorry to come across that way.
+
++ answer [*]
+- Can you try asking it a different way?
+
++ [*] (not|no) (help|helping) [*]
+- I'm sorry you think so. I'm constantly learning though.
+
++ (youre|you are) attractive
+- Thank you! What a sweet thing to say.
